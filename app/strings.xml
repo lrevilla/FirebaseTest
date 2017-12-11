@@ -1,0 +1,223 @@
+<!-- ========= -->
+<!-- QUESTIONS -->
+<!-- ========= -->
+<!-- a -->
+<string name="statement_a_1"></string>
+<string name="statement_a_2"></string>
+<string name="statement_a_3"></string>
+<!-- b -->
+<string name="statement_b_1"></string>
+<string name="statement_b_2"></string>
+<string name="statement_b_3"></string>
+<!-- c -->
+<string name="statement_c_1"></string>
+<string name="statement_c_2"></string>
+<string name="statement_c_3"></string>
+<!-- d -->
+<string name="statement_d_1"></string>
+<string name="statement_d_2"></string>
+<string name="statement_d_3"></string>
+<!-- e -->
+<string name="statement_e_1"></string>
+<string name="statement_e_2"></string>
+<string name="statement_e_3"></string>
+<!-- f -->
+<string name="statement_f_1"></string>
+<string name="statement_f_2"></string>
+<string name="statement_f_3"></string>
+<!-- g -->
+<string name="statement_g_1"></string>
+<string name="statement_g_2"></string>
+<string name="statement_g_3"></string>
+<!-- h -->
+<string name="statement_h_1"></string>
+<string name="statement_h_2"></string>
+<string name="statement_h_3"></string>
+<!-- i -->
+<string name="statement_i_1"></string>
+<string name="statement_i_2"></string>
+<string name="statement_i_3"></string>
+<!-- j -->
+<string name="statement_j_1"></string>
+<string name="statement_j_2"></string>
+<string name="statement_j_3"></string>
+<!-- k -->
+<string name="statement_k_1"></string>
+<string name="statement_k_2"></string>
+<string name="statement_k_3"></string>
+<!-- l -->
+<string name="statement_l_1"></string>
+<string name="statement_l_2"></string>
+<string name="statement_l_3"></string>
+<!-- m -->
+<string name="statement_m_1"></string>
+<string name="statement_m_2"></string>
+<string name="statement_m_3"></string>
+<!-- n -->
+<string name="statement_n_1"></string>
+<string name="statement_n_2"></string>
+<string name="statement_n_3"></string>
+<!-- ñ -->
+<string name="statement_ñ_1"></string>
+<string name="statement_ñ_2"></string>
+<string name="statement_ñ_3"></string>
+<!-- o -->
+<string name="statement_o_1"></string>
+<string name="statement_o_2"></string>
+<string name="statement_o_3"></string>
+<!-- p -->
+<string name="statement_p_1"></string>
+<string name="statement_p_2"></string>
+<string name="statement_p_3"></string>
+<!-- q -->
+<string name="statement_q_1"></string>
+<string name="statement_q_2"></string>
+<string name="statement_q_3"></string>
+<!-- r -->
+<string name="statement_r_1"></string>
+<string name="statement_r_2"></string>
+<string name="statement_r_3"></string>
+<!-- s -->
+<string name="statement_s_1"></string>
+<string name="statement_s_2"></string>
+<string name="statement_s_3"></string>
+<!-- t -->
+<string name="statement_t_1"></string>
+<string name="statement_t_2"></string>
+<string name="statement_t_3"></string>
+<!-- u -->
+<string name="statement_u_1"></string>
+<string name="statement_u_2"></string>
+<string name="statement_u_3"></string>
+<!-- v -->
+<string name="statement_v_1"></string>
+<string name="statement_v_2"></string>
+<string name="statement_v_3"></string>
+<!-- w -->
+<string name="statement_w_1"></string>
+<string name="statement_w_2"></string>
+<string name="statement_w_3"></string>
+<!-- x -->
+<string name="statement_x_1"></string>
+<string name="statement_x_2"></string>
+<string name="statement_x_3"></string>
+<!-- y -->
+<string name="statement_y_1"></string>
+<string name="statement_y_2"></string>
+<string name="statement_y_3"></string>
+<!-- z -->
+<string name="statement_z_1"></string>
+<string name="statement_z_2"></string>
+<string name="statement_z_3"></string>
+
+<!-- ======= -->
+<!-- ANSWERS -->
+<!-- ======= -->
+<!-- a -->
+<string name="answer_a_1"></string>
+<string name="answer_a_2"></string>
+<string name="answer_a_3"></string>
+<!-- b -->
+<string name="answer_b_1"></string>
+<string name="answer_b_2"></string>
+<string name="answer_b_3"></string>
+<!-- c -->
+<string name="answer_c_1"></string>
+<string name="answer_c_2"></string>
+<string name="answer_c_3"></string>
+<!-- d -->
+<string name="answer_d_1"></string>
+<string name="answer_d_2"></string>
+<string name="answer_d_3"></string>
+<!-- e -->
+<string name="answer_e_1"></string>
+<string name="answer_e_2"></string>
+<string name="answer_e_3"></string>
+<!-- f -->
+<string name="answer_f_1"></string>
+<string name="answer_f_2"></string>
+<string name="answer_f_3"></string>
+<!-- g -->
+<string name="answer_g_1"></string>
+<string name="answer_g_2"></string>
+<string name="answer_g_3"></string>
+<!-- h -->
+<string name="answer_h_1"></string>
+<string name="answer_h_2"></string>
+<string name="answer_h_3"></string>
+<!-- i -->
+<string name="answer_i_1"></string>
+<string name="answer_i_2"></string>
+<string name="answer_i_3"></string>
+<!-- j -->
+<string name="answer_j_1"></string>
+<string name="answer_j_2"></string>
+<string name="answer_j_3"></string>
+<!-- k -->
+<string name="answer_k_1"></string>
+<string name="answer_k_2"></string>
+<string name="answer_k_3"></string>
+<!-- l -->
+<string name="answer_l_1"></string>
+<string name="answer_l_2"></string>
+<string name="answer_l_3"></string>
+<!-- m -->
+<string name="answer_m_1"></string>
+<string name="answer_m_2"></string>
+<string name="answer_m_3"></string>
+<!-- n -->
+<string name="answer_n_1"></string>
+<string name="answer_n_2"></string>
+<string name="answer_n_3"></string>
+<!-- ñ -->
+<string name="answer_ñ_1"></string>
+<string name="answer_ñ_2"></string>
+<string name="answer_ñ_3"></string>
+<!-- o -->
+<string name="answer_o_1"></string>
+<string name="answer_o_2"></string>
+<string name="answer_o_3"></string>
+<!-- p -->
+<string name="answer_p_1"></string>
+<string name="answer_p_2"></string>
+<string name="answer_p_3"></string>
+<!-- q -->
+<string name="answer_q_1"></string>
+<string name="answer_q_2"></string>
+<string name="answer_q_3"></string>
+<!-- r -->
+<string name="answer_r_1"></string>
+<string name="answer_r_2"></string>
+<string name="answer_r_3"></string>
+<!-- s -->
+<string name="answer_s_1"></string>
+<string name="answer_s_2"></string>
+<string name="answer_s_3"></string>
+<!-- t -->
+<string name="answer_t_1"></string>
+<string name="answer_t_2"></string>
+<string name="answer_t_3"></string>
+<!-- u -->
+<string name="answer_u_1"></string>
+<string name="answer_u_2"></string>
+<string name="answer_u_3"></string>
+<!-- v -->
+<string name="answer_v_1"></string>
+<string name="answer_v_2"></string>
+<string name="answer_v_3"></string>
+<!-- w -->
+<string name="answer_w_1"></string>
+<string name="answer_w_2"></string>
+<string name="answer_w_3"></string>
+<!-- x -->
+<string name="answer_x_1"></string>
+<string name="answer_x_2"></string>
+<string name="answer_x_3"></string>
+<!-- y -->
+<string name="answer_y_1"></string>
+<string name="answer_y_2"></string>
+<string name="answer_y_3"></string>
+<!-- z -->
+<string name="answer_z_1"></string>
+<string name="answer_z_2"></string>
+<string name="answer_z_3"></string>
