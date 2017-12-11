@@ -232,7 +232,8 @@
                 {"statement": "statement_o_2","answer": "answer_o_2"},
                 {"statement": "statement_o_3","answer": "answer_o_3"},
                 {"statement": "statement_o_4","answer": "answer_o_4"},
-                {"statement": "statement_o_5","answer": "answer_o_5"}
+                {"statement": "statement_o_5","answer": "answer_o_5"},
+                {"statement": "statement_o_6","answer": "answer_o_6"}
             ]
         },
         "p": {

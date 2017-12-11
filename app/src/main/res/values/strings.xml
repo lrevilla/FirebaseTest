@@ -1,4 +1,388 @@
 <resources>
     <string name="app_name">FirebaseTest</string>
     <string name="action_settings">Settings</string>
+
+    <!-- ========= -->
+    <!-- QUESTIONS -->
+    <!-- ========= -->
+    <!-- a -->
+    <string name="statement_a_1">¿Persona que no bebe líquidos alcohólicos como el vino o el licor?</string>
+    <string name="statement_a_2">¿Ave depredadora que pertenece a la familia de los accipitridae?</string>
+    <string name="statement_a_3">Instrumento o máquina que sirve para atacar o defenderse.</string>
+    <string name="statement_a_4">Tiempo que inicia el año litúrgico.</string>
+    <string name="statement_a_5">Conjunto de obras que resultan de esta actividad, así como las diferentes tendencias o estilos de las mismas.</string>
+    <string name="statement_a_6">Palabra que significa lo contrario de una dada.</string>
+    <string name="statement_a_7">Cada uno de los significados que tiene una palabra.</string>
+    <string name="statement_a_8">El color de la mostaza.</string>
+    <string name="statement_a_9">Sistema operativo de los Samsung, Lg, Motorolas…</string>
+
+    <!-- b -->
+    <string name="statement_b_1">¿Deporte en el cual compiten dos equipos con el objetivo es introducir el balón en un aro?</string>
+    <string name="statement_b_2">¿Vehículo capaz de flotar en el agua y de trasladarse sobre ella?</string>
+    <string name="statement_b_3">Entrar en el agua para lavarse, para nadar o jugar.</string>
+    <string name="statement_b_4">Lugar que van José y Maria.</string>
+    <string name="statement_b_5">Ciencia que estudia la estructura de los seres vivos y de sus procesos vitales.</string>
+    <string name="statement_b_6">Palabra que tiene dos sílabas.</string>
+    <string name="statement_b_7">Contar la vida de una persona por escrito.</string>
+    <string name="statement_b_8">Objeto que se lleva encima del coche</string>
+    <string name="statement_b_9">Equipo en el que juega Andrés Iniesta.</string>
+
+    <!-- c -->
+    <string name="statement_c_1">¿Dispositivo que permite la resolución de cálculos matemáticos?</string>
+    <string name="statement_c_2">¿Edificio que se utiliza para encerrar a los presos?</string>
+    <string name="statement_c_3">Ropa de abrigo que cubre desde los hombros a la cintura</string>
+    <string name="statement_c_4">Fruto del cerezo de color rojo oscuro.</string>
+    <string name="statement_c_5">Móvil dicho por un argentino.</string>
+    <string name="statement_c_6">Historia contada en viñetas con dibujos y palabras.</string>
+    <string name="statement_c_7">Nombre del jugador del Real Madrid que tiene 4 balones de oro</string>
+    <string name="statement_c_8">Objeto que abres en el Clash Royal donde te dan oro y cartas.</string>
+    <string name="statement_c_9">Nombre de la ropa interior de los hombres.</string>
+
+    <!-- d -->
+    <string name="statement_d_1">Acto administrativo llevado a cabo por el Poder Ejecutivo, con contenido normativo reglamentario y jerarquía inferior a las leyes</string>
+    <string name="statement_d_2">¿Periodo temporal de 24 horas?</string>
+    <string name="statement_d_3">Que tiene poca fuerza, poco vigor o poca resistencia.</string>
+    <string name="statement_d_4">Si le añado el prefijo des- a cargar tienes...</string>
+    <string name="statement_d_5">Cubo con 6 numero que sirve para jugar a juegos</string>
+    <string name="statement_d_6">Los artículos demostrativos, posesivos, etc... Son...</string>
+    <string name="statement_d_7">Libro en el que aparece el significado de las palabras por orden alfabético</string>
+    <string name="statement_d_8">Objeto que se utiliza en la feria para explotar globos</string>
+
+    <!-- e -->
+    <string name="statement_e_1">Mensaje digital que se transmite mediante una red informática.</string>
+    <string name="statement_e_2">Trozo de carne sacado entre costilla y costilla de la res</string>
+    <string name="statement_e_3">Lugar que se usa para viviendas, oficinas, colegios, etc.</string>
+    <string name="statement_e_4">Primer mes del año.</string>
+    <string name="statement_e_5">Parte que, junto con otras, constituye la base de una cosa o un conjunto de cosas materiales o inmateriales.</string>
+    <string name="statement_e_6">Palabra cuya sílaba tónica es la antepenúltima</string>
+    <string name="statement_e_7">Grupo de versos que riman entre sí o tratan de un tema determinado.</string>
+    <string name="statement_e_8">Ejercitar el entendimiento para alcanzar o comprender algo.</string>
+
+    <!-- f -->
+    <string name="statement_f_1">Lugar que cuenta con la infraestructura y los dispositivos que se requieren para producir determinados bienes o transformar una fuente energía.</string>
+    <string name="statement_f_2">Red social creada por Mark Zuckerberg</string>
+    <string name="statement_f_3">Tiempo que está por venir.</string>
+    <string name="statement_f_4">Recipiente en el que se coloca la fruta.</string>
+    <string name="statement_f_5">Conjunto de palabras que constituyen un enunciado.</string>
+    <string name="statement_f_6">Tiempo verbal que indica que la acción se va a realizar.</string>
+    <string name="statement_f_7">Líquido que se utiliza para limpiarte la boca después de lavarte los dientes.</string>
+    <!-- g -->
+    <string name="statement_g_1">Ciencia que analiza la forma interior y exterior del globo terrestre.</string>
+    <string name="statement_g_2">Lucha armada o conflicto bélico entre dos o más naciones o bandos.</string>
+    <string name="statement_g_3">Máquina para levantar objetos pesados y moverlos de un lugar a otro.</string>
+    <string name="statement_g_4">Instrumento musical de cuerda compuesto por una caja de resonancia en forma de ocho, un mástil largo con trastes, y cuerdas, generalmente seis, que se hacen sonar con los dedos.</string>
+    <string name="statement_g_5">Lo que nos indica si es masculino o femenino es el…</string>
+    <string name="statement_g_6">Antónimo de leve.</string>
+    <string name="statement_g_7">Cualidad o conjunto de cualidades que hacen agradable a la persona o cosa que las tiene.</string>
+
+    <!-- h -->
+    <string name="statement_h_1">Vestimenta o uniforme que un sujeto utiliza de acuerdo a su condición o estado.</string>
+    <string name="statement_h_2">Marca o señal que deja el pie del hombre o del animal en la tierra por donde pisa.</string>
+    <string name="statement_h_3">Sumir, meter en lo hondo.</string>
+    <string name="statement_h_4">¿Cómo se llama la persona que tiene el mismo padre y la misma madre que tú?</string>
+    <string name="statement_h_5">Dos vocales juntas que forman dos sílabas distintas.</string>
+    <string name="statement_h_6">Palabras que se pronuncian igual, pero tienen significados distintos.</string>
+    <string name="statement_h_7">En casa del _____ cuchillo de palo.</string>
+    <string name="statement_h_8">Marca de ordenadores de 2 letras.</string>
+    <!-- i -->
+    <string name="statement_i_1">Signo que a través de una relación de semejanza, puede representar un cierto objeto.</string>
+    <string name="statement_i_2">Casa de hielo que habitan los esquimales y otros pueblos de características similares durante el invierno.</string>
+    <string name="statement_i_3">Cuando eres lo contrario a visible.</string>
+    <string name="statement_i_4">Forma no personal del verbo.</string>
+    <string name="statement_i_5">Enunciado que sirve para preguntar.</string>
+    <string name="statement_i_6">Persona que no tiene estudios y no sabe de las cosas.</string>
+    <!-- j -->
+    <string name="statement_j_1">Género de música que tiene su origen en diversos ritmos y melodías afronorteamericanos.</string>
+    <string name="statement_j_2">Persona que se encuentra en el puesto superior de una jerarquía.</string>
+    <string name="statement_j_3">Persona que juega.</string>
+    <string name="statement_j_4">El jabato es la cría del...</string>
+    <string name="statement_j_5">Apellido del autor de “Platero y yo”.</string>
+    <!-- k -->
+    <string name="statement_k_1">Lugar donde se vende prensa y gominolas.</string>
+    <string name="statement_k_2">Equivalente a mil metros.</string>
+    <string name="statement_k_3">Medida para pesar (equivale a mil gramos).</string>
+    <string name="statement_k_4">Animal parecido a un oso pequeño y que podemos encontrar en Australia..</string>
+    <!-- l -->
+    <string name="statement_l_1">Lugar que se encuentra equipado con los medios necesarios para llevar a cabo experimentos, investigaciones o trabajos de carácter científico.</string>
+    <string name="statement_l_2">Órgano que se halla dentro de la boca de los vertebrados, tiene movilidad y permite sentir el gusto y deglutir los alimentos.</string>
+    <string name="statement_l_3">Envase de metal habitualmente de forma cilíndrica.</string>
+    <string name="statement_l_4">Lugar en el que se compran libros.</string>
+    <string name="statement_l_5">Artículo masculino plural.</string>
+    <string name="statement_l_6">Gran escritor español perteneciente al Siglo de Oro.</string>
+    <!-- m -->
+    <string name="statement_m_1">Dibujo o esquema que representa una cierta franja de un territorio sobre una determinada superficie de dos dimensiones.</string>
+    <string name="statement_m_2">Arte con el cual se pretende producir resultados que son contrarios a las leyes naturales.</string>
+    <string name="statement_m_3">Fruta de piel fina, amarilla, verde o roja, de carne blanca y dura.</string>
+    <string name="statement_m_4">Capital de España.</string>
+    <string name="statement_m_5">Palabra que contiene una sola sílaba.</string>
+    <string name="statement_m_6">Los verbos españoles tienen tres: indicativo, subjuntivo e imperativo.</string>
+    <string name="statement_m_7">Animal peludo del que proviene el hombre.</string>
+    <!-- n -->
+    <string name="statement_n_1">Ser humano que aún no ha alcanzado la pubertad.</string>
+    <string name="statement_n_2">Obra de la literatura que, desarrollada en prosa, se encarga de narrar acciones que pertenecen parcial o totalmente al ámbito de la ficción</string>
+    <string name="statement_n_3">Ningún día o en ningún tiempo.</string>
+    <string name="statement_n_4">Color de la fruta con la que podemos hacer zumos.</string>
+    <string name="statement_n_5">Determinante que indica cantidad u orden.</string>
+    <string name="statement_n_6">Así llamamos tambien al sustantivo.</string>
+
+    <!-- ñ -->
+    <string name="statement_ñ_1">Planta trepadora de hojas grandes y flores pequeñas y verdosas agrupadas en espigas.</string>
+    <string name="statement_ñ_2">Obra o dicho de una persona que es simple, tímida y falta de ingenio.</string>
+    <string name="statement_ñ_3">Animal doméstico que tiene el cuerpo cubierto de lana de la familia ovina.</string>
+    <!-- o -->
+    <string name="statement_o_1">Mar de dimensiones inmensas que cubre la mayor parte de la superficie terrestre.</string>
+    <string name="statement_o_2">Ser mitológico, de apariencia similar al ser humano,de gran porte y comportamiento brutal.</string>
+    <string name="statement_o_3">El antónimo de claro es...</string>
+    <string name="statement_o_4">Enunciado con sentido completo y que tiene al menos un verbo.</string>
+    <string name="statement_o_5">Conjunto de normas que regulan la escritura.</string>
+    <string name="statement_o_6">Así llamamos tambien al sustantivo.</string>
+
+    <!-- p -->
+    <string name="statement_p_1">Pieza de madera u otro material, mucho más larga que gruesa, generalmente cilíndrica y fácil de manejar.</string>
+    <string name="statement_p_2">Construcción vertical que permite delimitar o cerrar un lugar.</string>
+    <string name="statement_p_3">Andar por placer o para hacer ejercicio.</string>
+    <string name="statement_p_4">¿Persona que vende en una panadería?</string>
+    <string name="statement_p_5">Palabras con más de un significado.</string>
+    <string name="statement_p_6">Nombre que se lo pone a un cigarro con marihuana.</string>
+
+    <!-- q -->
+    <string name="statement_q_1">Vehículo todoterreno de cuatro ruedas similar a una motocicleta.</string>
+    <string name="statement_q_2">Alimento que se obtiene por la maduración de la cuajada de la leche.</string>
+    <string name="statement_q_3">Producto obtenido por maduración de la cuajada de la leche.</string>
+    <string name="statement_q_4">Acción de coger un objeto que te molesta y moverlo.</string>
+    <string name="statement_q_5">Apellido real de Don Quijote antes de cambiarse de nombre.</string>
+    <string name="statement_q_6">Pregunta en inglés.</string>
+
+    <!-- r -->
+    <string name="statement_r_1">Memoria de acceso aleatorio que, en un equipo informático, es utilizada por un procesador para recibir instrucciones y guardar los resultados.</string>
+    <string name="statement_r_2">Pocas palabras que cuentan una historia más larga.</string>
+    <string name="statement_r_3">El renacuajo es la cría de la...</string>
+
+    <!-- s -->
+    <string name="statement_s_1">Recipiente o envase  de tela, cuero, papel, etc., que cuenta con una abertura para depositar cosas en su interior.</string>
+    <string name="statement_s_2">Movimiento que se realiza para despegarse del suelo.</string>
+    <string name="statement_s_3">Calzado que no tapa todo el pie.</string>
+    <string name="statement_s_4">Cuando la comida tiene poca sal, la comida está...</string>
+
+    <!-- t -->
+    <string name="statement_t_1">Cartón o plástico, entre otros materiales posibles, que muestra alguna inscripción, logo, o una combinación de ambos para representar a una persona física o empresa.</string>
+    <string name="statement_t_2">Dispositivo que presenta el conjunto de las teclas de diversos aparatos, máquinas e instrumentos</string>
+    <string name="statement_t_3">Parte de una habitación que está arriba.</string>
+    <string name="statement_t_4">Pastel grande que no suele faltar en los cumpleaños.</string>
+
+    <!-- u -->
+    <string name="statement_u_1">Caracteres que sigue un estándar y que permite denominar recursos dentro del entorno de Internet para que puedan ser localizados.</string>
+    <string name="statement_u_2">Sistema operativo que por lo general es libre.</string>
+    <string name="statement_u_3">Necesidad o falta apremiante de lo que es menester para algún negocio.</string>
+    <string name="statement_u_4">Sinónimo de utilizar.</string>
+
+    <!-- v -->
+    <string name="statement_v_1">Animal mamífero que pertenece a la familia de los bovinos.</string>
+    <string name="statement_v_2">Lo contrario a falso</string>
+    <string name="statement_v_3">Que es muy rápido.</string>
+    <string name="statement_v_4">Recipiente que sirve para beber</string>
+
+
+    <!-- w -->
+    <string name="statement_w_1">Procesador de texto que pertecene a la compañia de Microsoft.</string>
+    <string name="statement_w_2">Licor alcohólico que se obtiene del grano de algunas plantas, destilando un compuesto amiláceo en estado de fermentación.</string>
+    <string name="statement_w_3">Juego practicado en una piscina entre 2 equipos con porterías.</string>
+    <!-- x -->
+    <string name="statement_x_1">Instrumento musical de percusión formado por láminas generalmente de madera.</string>
+    <string name="statement_x_2">Odio, recelo, hostilidad y rechazo hacia los extranjeros.</string>
+    <string name="statement_x_3">Instrumento musical de percusión formado por láminas generalmente de madera.</string>
+    <!-- y -->
+    <string name="statement_y_1">Compañía japonesa con una amplia gama de productos y servicios, sobre todo, instrumentos musicales y aparatos electrónicos.</string>
+    <string name="statement_y_2"> Empresa global de medios con sede en Estados Unidos que posee un portal de Internet, un directorio web y una serie de servicios tales como el popular correo electrónico.</string>
+    <string name="statement_y_3">Hembra del caballo.</string>
+    <string name="statement_y_4">Deporte que es muy relajante..</string>
+
+    <!-- z -->
+    <string name="statement_z_1">Teleobjetivo especial que posee una distancia focal que puede ser ajustada en función del propósito de quien lo utilice.</string>
+    <string name="statement_z_2">Empezar a navegar.</string>
+    <string name="statement_z_3">Calzado que nos ponemos en los pies para caminar.</string>
+
+    <!-- ======= -->
+    <!-- ANSWERS -->
+    <!-- ======= -->
+    <!-- a -->
+    <string name="answer_a_1">abstemio</string>
+    <string name="answer_a_2">aguila</string>
+    <string name="answer_a_3">arma</string>
+    <string name="answer_a_4">adviento</string>
+    <string name="answer_a_5">arte</string>
+    <string name="answer_a_6">antonimo</string>
+    <string name="answer_a_7">acepcion</string>
+    <string name="answer_a_8">amarillo</string>
+    <string name="answer_a_9">android</string>
+    <!-- b -->
+    <string name="answer_b_1">baloncesto</string>
+    <string name="answer_b_2">barco</string>
+    <string name="answer_b_3">bañarse</string>
+    <string name="answer_b_4">belen</string>
+    <string name="answer_b_5">biologia</string>
+    <string name="answer_b_6">bisilaba</string>
+    <string name="answer_b_7">biografia</string>
+    <string name="answer_b_8">baca</string>
+    <string name="answer_b_9">barcelona</string>
+    <!-- c -->
+    <string name="answer_c_1">calculudora</string>
+    <string name="answer_c_2">carcel</string>
+    <string name="answer_c_3">cazadora</string>
+    <string name="answer_c_4">cerezo</string>
+    <string name="answer_c_5">celular</string>
+    <string name="answer_c_6">comic</string>
+    <string name="answer_c_7">cristiano</string>
+    <string name="answer_c_8">cofre</string>
+    <string name="answer_c_9">calzoncillos</string>
+    <!-- d -->
+    <string name="answer_d_1">decreto</string>
+    <string name="answer_d_2">dia</string>
+    <string name="answer_d_3">debil</string>
+    <string name="answer_d_4">descargar</string>
+    <string name="answer_d_5">dado</string>
+    <string name="answer_d_6">determinantes</string>
+    <string name="answer_d_7">diccionario</string>
+    <string name="answer_d_8">dardos</string>
+    <!-- e -->
+    <string name="answer_e_1">email</string>
+    <string name="answer_e_2">entrecot</string>
+    <string name="answer_e_3">edificio</string>
+    <string name="answer_e_4">enero</string>
+    <string name="answer_e_5">elemento</string>
+    <string name="answer_e_6">esdrujula</string>
+    <string name="answer_e_7">estrofa</string>
+    <string name="answer_e_8">estudiar</string>
+    <!-- f -->
+    <string name="answer_f_1">fabrica</string>
+    <string name="answer_f_2">facebook</string>
+    <string name="answer_f_3">futuro</string>
+    <string name="answer_f_4">frutero</string>
+    <string name="answer_f_5">frase</string>
+    <string name="answer_f_6">futuro</string>
+    <string name="answer_f_7">fluor</string>
+    <!-- g -->
+    <string name="answer_g_1">geologia</string>
+    <string name="answer_g_2">guerra</string>
+    <string name="answer_g_3">grua</string>
+    <string name="answer_g_4">guitarra</string>
+    <string name="answer_g_5">genero</string>
+    <string name="answer_g_6">grave</string>
+    <string name="answer_g_7">gracias</string>
+    <!-- h -->
+    <string name="answer_h_1">habitos</string>
+    <string name="answer_h_2">huella</string>
+    <string name="answer_h_3">hundir</string>
+    <string name="answer_h_4">hermano</string>
+    <string name="answer_h_5">hiato</string>
+    <string name="answer_h_6">homofonas</string>
+    <string name="answer_h_7">herrero</string>
+    <string name="answer_h_8">hp</string>
+    <!-- i -->
+    <string name="answer_i_1">icono</string>
+    <string name="answer_i_2">iglu</string>
+    <string name="answer_i_3">invisible</string>
+    <string name="answer_i_4">indefinido</string>
+    <string name="answer_i_5">interrogante</string>
+    <string name="answer_i_6">inculto</string>
+    <!-- j -->
+    <string name="answer_j_1">jazz</string>
+    <string name="answer_j_2">jefe</string>
+    <string name="answer_j_3">jugador</string>
+    <string name="answer_j_4">jabalí</string>
+    <string name="answer_j_5">jimenez</string>
+    <!-- k -->
+    <string name="answer_k_1">kiosco</string>
+    <string name="answer_k_2">kilometro</string>
+    <string name="answer_k_3">kilogramo</string>
+    <string name="answer_k_4">koala</string>
+
+    <!-- l -->
+    <string name="answer_l_1">laboratorio</string>
+    <string name="answer_l_2">lengua</string>
+    <string name="answer_l_3">lata</string>
+    <string name="answer_l_4">libreria</string>
+    <string name="answer_l_5">los</string>
+    <string name="answer_l_6">lope de vega</string>
+    <!-- m -->
+    <string name="answer_m_1">mapa</string>
+    <string name="answer_m_2">magia</string>
+    <string name="answer_m_3">manzana</string>
+    <string name="answer_m_4">madrid</string>
+    <string name="answer_m_5">monosilabo</string>
+    <string name="answer_m_6">modos</string>
+    <string name="answer_m_7">mono</string>
+    <!-- n -->
+    <string name="answer_n_1">niño</string>
+    <string name="answer_n_2">novela</string>
+    <string name="answer_n_3">nunca</string>
+    <string name="answer_n_4">naranja</string>
+    <string name="answer_n_5">numeral</string>
+    <string name="answer_n_6">nombre</string>
+    <!-- ñ -->
+    <string name="answer_ñ_1">ñame</string>
+    <string name="answer_ñ_2">ñoñeria</string>
+    <string name="answer_ñ_3"></string>
+    <!-- o -->
+    <string name="answer_o_1">oceano</string>
+    <string name="answer_o_2">ogro</string>
+    <string name="answer_o_3">oveja</string>
+    <string name="answer_o_4">oscura</string>
+    <string name="answer_o_5"></string>
+    <!-- p -->
+    <string name="answer_p_1">palo</string>
+    <string name="answer_p_2">pared</string>
+    <string name="answer_p_3">pasear</string>
+    <string name="answer_p_4">panadero</string>
+    <string name="answer_p_5">polisemicas</string>
+    <string name="answer_p_6">porro</string>
+    <!-- q -->
+    <string name="answer_q_1">quad</string>
+    <string name="answer_q_2">queso</string>
+    <string name="answer_q_3">queso</string>
+    <string name="answer_q_4">quitar</string>
+    <string name="answer_q_5">quijano</string>
+    <string name="answer_q_6">question</string>
+    <!-- r -->
+    <string name="answer_r_1">RAM</string>
+    <string name="answer_r_2">resumen</string>
+    <string name="answer_r_3">rana</string>
+    <!-- s -->
+    <string name="answer_s_1">saco</string>
+    <string name="answer_s_2">saltar</string>
+    <string name="answer_s_3">sandalia</string>
+    <string name="answer_s_4">sosa</string>
+    <!-- t -->
+    <string name="answer_t_1">tarjeta</string>
+    <string name="answer_t_2">teclado</string>
+    <string name="answer_t_3">techo</string>
+    <string name="answer_t_4">tarta</string>
+    <!-- u -->
+    <string name="answer_u_1">url</string>
+    <string name="answer_u_2">ubuntu</string>
+    <string name="answer_u_3">urgencia</string>
+    <string name="answer_u_4">usar</string>
+    <!-- v -->
+    <string name="answer_v_1">vaca</string>
+    <string name="answer_v_2">verdadero</string>
+    <string name="answer_v_3">veloz</string>
+    <string name="answer_v_4">vaso</string>
+    <!-- w -->
+    <string name="answer_w_1">word</string>
+    <string name="answer_w_2">whisky</string>
+    <string name="answer_w_3">waterpolo</string>
+    <!-- x -->
+    <string name="answer_x_1">xilofono</string>
+    <string name="answer_x_2">xenofobia</string>
+    <string name="answer_x_3">xilofono</string>
+    <!-- y -->
+    <string name="answer_y_1">yamaha</string>
+    <string name="answer_y_2">yahoo</string>
+    <string name="answer_y_3">yegua</string>
+    <string name="answer_y_4">yoga</string>
+    <!-- z -->
+    <string name="answer_z_1">zoom</string>
+    <string name="answer_z_2">zarpar</string>
+    <string name="answer_z_3">zapato</string>
+
 </resources>

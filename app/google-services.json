@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "940087086221",
+    "firebase_url": "https://testfirebase-c484d.firebaseio.com",
+    "project_id": "testfirebase-c484d",
+    "storage_bucket": "testfirebase-c484d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940087086221:android:e7c0cc4f0589167c",
+        "android_client_info": {
+          "package_name": "com.lrevilla.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940087086221-70nbk1dlnd30e7as098ahpf465mf4nba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcs8TBEz_TV3U5ZEnOGMGeivfFulITPNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
